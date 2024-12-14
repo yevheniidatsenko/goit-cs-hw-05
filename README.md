@@ -29,6 +29,8 @@ Write a Python script that reads all files in a user-specified source folder and
 - All errors are logged.
 - The code is readable and adheres to PEP 8 standards.
 
+#### Result - Task 1
+
 ![Solution](./scr_task_01.png)
 
 ---
@@ -55,6 +57,8 @@ Write a Python script that downloads text from a given URL, analyzes word freque
 - The visualization displays top words by frequency.
 - The code employs multithreading.
 - The code is readable and adheres to PEP 8 standards.
+
+#### Result - Task 2
 
 ![Solution](./scr_task_02.png)
 
